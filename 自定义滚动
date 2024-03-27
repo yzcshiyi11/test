@@ -1,0 +1,10 @@
+body {
+    Scrollbar-3DLight-Color: #999999;    /*滚动条亮边的颜色*/
+    Scrollbar-Arrow-Color: #CCCCCC;      /*上下按钮上三角箭头的颜色*/
+    Scrollbar-Base-Color: #E1E1E1;       /*滚动条的基本颜色*/
+    Scrollbar-Shadow-Color: #CCCCCC;     /*立体滚动条阴影的颜色*/
+    Scrollbar-DarkShadow-Color: #333333; /*滚动条动条阴影的颜色*/
+    Scrollbar-Face-Color: #999999;       /*滚动条凸出部分的颜色*/
+    Scrollbar-Highlight-Color: #F2F2F2;  /*滚动条空白部分的颜色*/
+    Scrollbar-Track-Color: #F2F2F2;      /*滚动条的背景颜色*/
+}
